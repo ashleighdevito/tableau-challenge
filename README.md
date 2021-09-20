@@ -28,6 +28,4 @@ The Story is structured as follows:
 
 * Finally, a bar chart showing the five most popular stations broken into the days of the week for each ride.
 
-
-
-
+This project was completed for the Case Western University Data Analytics Boothcamp.
