@@ -14,19 +14,19 @@ Certain stations are used more for 'commuters' during the work week, like the Gr
 
 The Story is structured as follows:
 
-    The first two maps in the story illustrate how bikes tend to trickle out from New Jersey over into Manhattan. Both of these Maps are filterable by Month.
+* The first two maps in the story illustrate how bikes tend to trickle out from New Jersey over into Manhattan. Both of these Maps are filterable by Month.
 
-    The next bar chart identifies the station locations where the number of bikes leaving the station is greater than the bikes arriving.  
+* The next bar chart identifies the station locations where the number of bikes leaving the station is greater than the bikes arriving.  
 
-    The Popular Stations bar chart shows how many rides departed and arrived at each station.  It appears as if the top few stations align in popularity and would be considered busier than other locations.  These may need additional servicing and should be a maintainance priority.
+* The Popular Stations bar chart shows how many rides departed and arrived at each station.  It appears as if the top few stations align in popularity and would be considered busier than other locations.  These may need additional servicing and should be a maintainance priority.
 
-    The top starting locations and total location tree additionally show where the bikes are traveling from and arriving to.
+* The top starting locations and total location tree additionally show where the bikes are traveling from and arriving to.
 
-    Next, the Membership dashboard charts the number of rides taken by members and casual passholders over time.
+* Next, the Membership dashboard charts the number of rides taken by members and casual passholders over time.
 
-    This is followed by an overview of demand across the entire period from February 2021 to August 2021.  Each chart will allow the user to filter the data.
+* This is followed by an overview of demand across the entire period from February 2021 to August 2021.  Each chart will allow the user to filter the data.
 
-    Finally, a bar chart showing the five most popular stations broken into the days of the week for each ride.
+* Finally, a bar chart showing the five most popular stations broken into the days of the week for each ride.
 
 
 
